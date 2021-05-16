@@ -8,3 +8,7 @@ usually included with operating system such as FreeBSD.  Thus, no additional
 dependency is necessary.
 
 The script originated from somewhere on Internet and I just wanted to give it home.
+
+## Usage
+
+    htpasswd.pl filename username password
